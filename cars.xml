@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdm_garage>
+  <civici>
+    <civic id="ek9">
+      <generacija>6. generacija</generacija>
+      <model>Civic Type R (EK9)</model>
+      <godina_od>1997</godina_od>
+      <godina_do>2000</godina_do>
+      <motor>
+        <tip>B16B VTEC DOHC Inline-4</tip>
+        <zapremina>1.6L</zapremina>
+        <snaga_ks>185</snaga_ks>
+        <okretni_moment_nm>160</okretni_moment_nm>
+        <vtec_rpm>5900</vtec_rpm>
+        <max_rpm>8400</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>5-stupanjski rucni (LSD)</mjenjac>
+      <masa_kg>1050</masa_kg>
+      <ubrzanje_0_100>6.8</ubrzanje_0_100>
+      <max_brzina_kmh>225</max_brzina_kmh>
+      <boja_original>Championship White</boja_original>
+      <cijena_eur>28000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/1997_Honda_Civic_Type_R_EK9.jpg/1280px-1997_Honda_Civic_Type_R_EK9.jpg</slika>
+    </civic>
+    <civic id="ep3">
+      <generacija>7. generacija</generacija>
+      <model>Civic Type R (EP3)</model>
+      <godina_od>2001</godina_od>
+      <godina_do>2005</godina_do>
+      <motor>
+        <tip>K20A2 i-VTEC DOHC Inline-4</tip>
+        <zapremina>2.0L</zapremina>
+        <snaga_ks>200</snaga_ks>
+        <okretni_moment_nm>192</okretni_moment_nm>
+        <vtec_rpm>5800</vtec_rpm>
+        <max_rpm>8000</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>6-stupanjski rucni (Helical LSD)</mjenjac>
+      <masa_kg>1204</masa_kg>
+      <ubrzanje_0_100>6.6</ubrzanje_0_100>
+      <max_brzina_kmh>235</max_brzina_kmh>
+      <boja_original>Championship White</boja_original>
+      <cijena_eur>18000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Honda_Civic_Type_R_%28EP3%29_-%2820160515%29.jpg/1280px-Honda_Civic_Type_R_%28EP3%29_-%2820160515%29.jpg</slika>
+    </civic>
+    <civic id="fn2">
+      <generacija>8. generacija</generacija>
+      <model>Civic Type R (FN2)</model>
+      <godina_od>2007</godina_od>
+      <godina_do>2011</godina_do>
+      <motor>
+        <tip>K20Z4 i-VTEC DOHC Inline-4</tip>
+        <zapremina>2.0L</zapremina>
+        <snaga_ks>201</snaga_ks>
+        <okretni_moment_nm>193</okretni_moment_nm>
+        <vtec_rpm>5900</vtec_rpm>
+        <max_rpm>8000</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>6-stupanjski rucni</mjenjac>
+      <masa_kg>1271</masa_kg>
+      <ubrzanje_0_100>6.6</ubrzanje_0_100>
+      <max_brzina_kmh>235</max_brzina_kmh>
+      <boja_original>Milano Red</boja_original>
+      <cijena_eur>16000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2009_Honda_Civic_Type_R_FN2_front.jpg/1280px-2009_Honda_Civic_Type_R_FN2_front.jpg</slika>
+    </civic>
+    <civic id="fk2">
+      <generacija>9. generacija</generacija>
+      <model>Civic Type R (FK2)</model>
+      <godina_od>2015</godina_od>
+      <godina_do>2017</godina_do>
+      <motor>
+        <tip>K20C1 VTEC Turbo DOHC Inline-4</tip>
+        <zapremina>2.0L</zapremina>
+        <snaga_ks>310</snaga_ks>
+        <okretni_moment_nm>400</okretni_moment_nm>
+        <vtec_rpm>2500</vtec_rpm>
+        <max_rpm>7000</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>6-stupanjski rucni (LSD)</mjenjac>
+      <masa_kg>1380</masa_kg>
+      <ubrzanje_0_100>5.7</ubrzanje_0_100>
+      <max_brzina_kmh>270</max_brzina_kmh>
+      <boja_original>Championship White</boja_original>
+      <cijena_eur>32000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2015_Honda_Civic_Type_R_%28FK2%29%2C_front_8.15.19.jpg/1280px-2015_Honda_Civic_Type_R_%28FK2%29%2C_front_8.15.19.jpg</slika>
+    </civic>
+    <civic id="fk8">
+      <generacija>10. generacija</generacija>
+      <model>Civic Type R (FK8)</model>
+      <godina_od>2017</godina_od>
+      <godina_do>2022</godina_do>
+      <motor>
+        <tip>K20C1 VTEC Turbo DOHC Inline-4</tip>
+        <zapremina>2.0L</zapremina>
+        <snaga_ks>320</snaga_ks>
+        <okretni_moment_nm>400</okretni_moment_nm>
+        <vtec_rpm>2500</vtec_rpm>
+        <max_rpm>7000</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>6-stupanjski rucni (LSD)</mjenjac>
+      <masa_kg>1380</masa_kg>
+      <ubrzanje_0_100>5.8</ubrzanje_0_100>
+      <max_brzina_kmh>272</max_brzina_kmh>
+      <boja_original>Rallye Red</boja_original>
+      <cijena_eur>38000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2017_Honda_Civic_Type_R_FK8_in_Championship_White%2C_front_right%2C_08-04-2024.jpg/1280px-2017_Honda_Civic_Type_R_FK8_in_Championship_White%2C_front_right%2C_08-04-2024.jpg</slika>
+    </civic>
+    <civic id="fl5">
+      <generacija>11. generacija</generacija>
+      <model>Civic Type R (FL5)</model>
+      <godina_od>2023</godina_od>
+      <godina_do></godina_do>
+      <motor>
+        <tip>K20C1 VTEC Turbo DOHC Inline-4</tip>
+        <zapremina>2.0L</zapremina>
+        <snaga_ks>329</snaga_ks>
+        <okretni_moment_nm>420</okretni_moment_nm>
+        <vtec_rpm>2500</vtec_rpm>
+        <max_rpm>7500</max_rpm>
+      </motor>
+      <pogon>FWD</pogon>
+      <mjenjac>6-stupanjski rucni (LSD)</mjenjac>
+      <masa_kg>1430</masa_kg>
+      <ubrzanje_0_100>5.4</ubrzanje_0_100>
+      <max_brzina_kmh>275</max_brzina_kmh>
+      <boja_original>Sonic Grey Pearl</boja_original>
+      <cijena_eur>52000</cijena_eur>
+      <kategorija>Type R</kategorija>
+      <slika>https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2023_Honda_Civic_Type_R_%28FL5%29%2C_front_8.4.23.jpg/1280px-2023_Honda_Civic_Type_R_%28FL5%29%2C_front_8.4.23.jpg</slika>
+    </civic>
+  </civici>
+</jdm_garage>
